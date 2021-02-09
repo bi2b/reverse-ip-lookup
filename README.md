@@ -1,5 +1,7 @@
 # Reverse IP Lookup with python requests.
 For usage: \
+apt install python\
+pip install requests\
 Clone this repository\
 cd reverse-ip-lookup\
 python or python3 revip.py -l myiplist.txt -s myresults.txt -v
