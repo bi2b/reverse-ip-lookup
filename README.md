@@ -7,4 +7,4 @@ cd reverse-ip-lookup\
 python or python3 revip.py -l myiplist.txt -s myresults.txt -v
 
 
-This script may get an error in python2 so please use python3!
+This script just for python3 only, if you are using python2, you can modify the code by yourself!
